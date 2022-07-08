@@ -227,8 +227,8 @@ li a:hover{
 }
 .scrollIndicator span{
 	display: block;
-	width: 1.25rem;
-	height: 1.25rem;
+	width: 1.75rem;
+	height: 1.75rem;
 	border-bottom: 0.063rem solid black;
 	border-right: 0.063rem solid black;
 	transform: rotate(45deg);
