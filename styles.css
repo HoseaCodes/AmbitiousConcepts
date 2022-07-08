@@ -446,7 +446,9 @@ li a:hover{
     background: #334A63;
     margin-bottom: 2.5rem;	
 }
-
+.sr-only {
+	visibility: hidden;
+}
 /* Plans Section CSS*/
 #plans{
     padding-top: 3.125rem;
