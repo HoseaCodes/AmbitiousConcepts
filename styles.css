@@ -461,7 +461,7 @@ li a:hover{
 }
 .single_plans li{
     font-size:1.8rem;
-    color:#83a7a5;
+    color:#597d7b;
     line-height: 1.875rem;
 }
 .single_plans li i{
@@ -587,7 +587,7 @@ li a:hover{
     border:0.1313rem solid #8CC2BD;
 }
 .main-package .package-item.basic {
-    color:#b3b3b3;
+    color:#767676;
 }
 .main-package .package-item.standard h5{
     color: #0f5f5c !important;
@@ -618,20 +618,20 @@ li a:hover{
     color:#fff;
 }
 .package-item.premium h5{
-    color:#8CC2BD;
+    color:#4a807b;
 }
 .package-item.premium ul li{
 	display: block;
-    color:#b3b3b3;
+    color:#767676;
 }
 
 .package-item.premium .package-bottom-area h4{
-    color:#8CC2BD !important;
+    color:#689e99 !important;
     font-weight:600;
 }
 
 .package-item.premium .package-bottom-area h4 span{
-    color:#8CC2BD !important;
+    color:#4a807b !important;
     font-weight:normal;
 }
 
